@@ -2,6 +2,13 @@
 
 iOS Simulator
 
+
+Remove unavailable iOS Simulators
+
+```
+xcrun simctl delete unavailable
+```
+
 Get iOS Simulator *.app **file** 
 
 ```
