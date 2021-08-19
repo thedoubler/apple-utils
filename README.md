@@ -24,6 +24,12 @@ Launch the app in iOS Simulator using command line args
 xcrun simctl launch --console booted your.bundle.identifer "your -arguments"
 ```
 
+Add Media to iOS Simulator (or drag and drop)
+
+```
+xcrun simctl addmedia booted PATH_TO_MEDIA_FILE
+```
+
 Record a video from Simulator (⌘ + R)
 
 ```
