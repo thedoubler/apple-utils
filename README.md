@@ -24,7 +24,7 @@ Launch the app in iOS Simulator using command line args
 xcrun simctl launch --console booted your.bundle.identifer "your -arguments"
 ```
 
-Record a video from Simulator ⌘ + R
+Record a video from Simulator (⌘ + R)
 
 ```
 xcrun simctl io booted recordVideo --type=mp4 PATH_TO_FILE
