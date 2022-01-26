@@ -42,3 +42,15 @@ Record a video from Simulator (⌘ + R)
 ```
 xcrun simctl io booted recordVideo --type=mp4 PATH_TO_FILE
 ```
+Use Simulator in Fullscreen MODE
+
+```
+defaults write com.apple.iphonesimulator AllowFullscreenMode -bool YES
+```
+
+Clean Derived Data (alias)
+
+```
+rm -rf ~/Library/Developer/Xcode/DerivedData
+rm -frd ~/Library/Caches/com.apple.dt.Xcode/*
+```
