@@ -58,8 +58,9 @@ rm -frd ~/Library/Caches/com.apple.dt.Xcode/*
 Go to Phone numpad and type, then hit call:
 
 
-#### Field Test Menu: 
-``` *3001#12345#* - will give info about: Bandwith, PLMN (Public Land Mobile Network), RSRP (Reference Signal Received Power) -90 means good signal, Cell ID, EARFCN etc.
+#### Field Test Menu
+```
+*3001#12345#* - will give info about: Bandwith, PLMN (Public Land Mobile Network), RSRP (Reference Signal Received Power) -90 means good signal, Cell ID, EARFCN etc.
 ```
 
 #### Call Barring - disable/enable all incoming calls 
