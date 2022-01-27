@@ -1,7 +1,5 @@
 #  
-
-iOS Simulator
-
+# iOS Simulator - Command Line tools
 
 Remove unavailable iOS Simulators
 
