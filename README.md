@@ -72,3 +72,9 @@ Go to Phone numpad and type, then hit call:
 
 _pin is which is the lock on your SIM card._
 ```
+
+#### Call Forwarding - disable/enable all incoming calls 
+
+*#21# (check status)
+*21# (enable/disable Call Forwarding)
+*21mobilenumber# (divert calls to Number)
