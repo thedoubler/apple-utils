@@ -54,3 +54,15 @@ Clean Derived Data (alias)
 rm -rf ~/Library/Developer/Xcode/DerivedData
 rm -frd ~/Library/Caches/com.apple.dt.Xcode/*
 ```
+
+# iOS Device - Secret Menu
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
+
