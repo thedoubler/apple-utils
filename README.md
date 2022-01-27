@@ -55,13 +55,15 @@ rm -frd ~/Library/Caches/com.apple.dt.Xcode/*
 
 # iOS Device - Secret Codes
 
-### Field Test Menu: 
-Go to Phone numpad and type and hit call:
-[1] **3001#12345#** - will give info about: Bandwith, PLMN (Public Land Mobile Network), RSRP (Reference Signal Received Power) -90 means good signal, Cell ID, EARFCN etc.
+Go to Phone numpad and type, then hit call:
+
+
+#### Field Test Menu: 
+``` **3001#12345#** - will give info about: Bandwith, PLMN (Public Land Mobile Network), RSRP (Reference Signal Received Power) -90 means good signal, Cell ID, EARFCN etc.
 **
+```
 
-
-### Call Barring - disable/enable all incoming calls 
+#### Call Barring - disable/enable all incoming calls 
 
 ```
 *#33# (Check status) 
