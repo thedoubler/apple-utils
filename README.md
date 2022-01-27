@@ -58,3 +58,6 @@ Field Test Menu: Go to Phone numpad and type and hit call:
 **3001#12345#** - will give info about: Bandwith, PLMN (Public Land Mobile Network), RSRP (Reference Signal Received Power) -90 means good signal, Cell ID, EARFCN etc.
 **
 
+Code: *#33# (Check status) 
+*33*pin# (Enable Call Barring)
+#33*pin# (Call Barring)
