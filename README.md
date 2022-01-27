@@ -53,14 +53,8 @@ rm -rf ~/Library/Developer/Xcode/DerivedData
 rm -frd ~/Library/Caches/com.apple.dt.Xcode/*
 ```
 
-# iOS Device - Secret Menu
-<details>
-  <summary>Click to expand!</summary>
-  
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
-</details>
+# iOS Device - Secret Codes
+Field Test Menu: Go to Phone numpad and type and hit call:
+**3001#12345#** - will give info about: Bandwith, PLMN (Public Land Mobile Network), RSRP (Reference Signal Received Power) -90 means good signal, Cell ID, EARFCN etc.
+**
 
