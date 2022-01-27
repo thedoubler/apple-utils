@@ -62,8 +62,11 @@ Go to Phone numpad and type and hit call:
 
 
 ### Call Barring - disable/enable all incoming calls 
+
 ```
 *#33# (Check status) 
 *33*pin# (Enable Call Barring)
 #33*pin# (Call Barring)
+
+_pin is which is the lock on your SIM card._
 ```
